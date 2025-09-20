@@ -21,7 +21,7 @@ get_header(); ?>
       <h1 id="content"><span>Ron</span> <span>the</span> <span>don.</span></h1>
       <p>Just say <span>Rolle</span>. My full name is Roni Laukkarinen and I'm a web designer and developer from Finland.</p>
 
-      <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/gravatar-2023.png" alt="Facial image of me, Roni Laukkarinen aka rolle from Twitter" class="gravatar" />
+      <img src="https://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( 'roni@dude.fi' ) ) ); ?>.jpg?s=300" alt="Facial image of me, Roni Laukkarinen aka rolle from Twitter" class="gravatar" width="100" height="100" />
       <p class="gravatar-description">Yep, that's my current gravatar. More recent photos at <a class="instagram-link" href="https://www.instagram.com/rolle_/" aria-label="Instagram"><?php include get_theme_file_path( '/svg/instagram.svg' ); ?> Instagram</a>.
         <span class="arrow"><?php include get_theme_file_path( '/svg/arrow-drawing.svg' ); ?></span>
       </p>
