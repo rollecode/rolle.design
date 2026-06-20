@@ -3,7 +3,7 @@
  * The template for displaying 404 pages (not found)
  *
  * @Date:   2019-10-15 12:30:02
- * @Last Modified by: Roni Laukkarinen
+ * @Last Modified by: Rolle Laukkarinen
  * @Last Modified time: 2021-04-01 23:19:18
  * @package rolle
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page

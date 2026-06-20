@@ -1,8 +1,8 @@
 <?php
 /**
- * @Author: Roni Laukkarinen
+ * @Author: Rolle Laukkarinen
  * @Date:   2021-02-04 18:15:59
- * @Last Modified by:   Roni Laukkarinen
+ * @Last Modified by:   Rolle Laukkarinen
  * @Last Modified time: 2021-02-04 18:19:44
  *
  * @package rolle

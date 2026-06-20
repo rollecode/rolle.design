@@ -1,8 +1,8 @@
 /* eslint-disable max-len */
 /**
- * @Author: Roni Laukkarinen
+ * @Author: Rolle Laukkarinen
  * @Date:   2022-05-07 12:20:13
- * @Last Modified by:   Roni Laukkarinen
+ * @Last Modified by:   Rolle Laukkarinen
  * @Last Modified time: 2022-10-06 22:53:19
  */
 import MoveTo from 'moveto';

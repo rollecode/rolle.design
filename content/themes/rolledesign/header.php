@@ -4,9 +4,9 @@
  *
  * <head> section and everything up until <div id="content">
  *
- * @Author: Roni Laukkarinen
+ * @Author: Rolle Laukkarinen
  * @Date: 2020-05-11 13:17:32
- * @Last Modified by:   Roni Laukkarinen
+ * @Last Modified by:   Rolle Laukkarinen
  * @Last Modified time: 2022-12-15 13:26:25
  *
  * @package rolle

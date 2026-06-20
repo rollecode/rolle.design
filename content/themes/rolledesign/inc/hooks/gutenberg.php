@@ -4,7 +4,7 @@
  *
  * @Author: Niku Hietanen
  * @Date: 2020-02-20 13:46:50
- * @Last Modified by: Roni Laukkarinen
+ * @Last Modified by: Rolle Laukkarinen
  * @Last Modified time: 2021-04-01 20:43:25
  *
  * @package rolle
