@@ -13,6 +13,7 @@
   p > strong > a,
   p > em > a,
   p:not([class]) > a:not([class]),
+  p.wp-block-paragraph > a,
   p.has-text-align-left > a,
   p.has-text-align-center > a,
   p.has-text-align-right > a,
