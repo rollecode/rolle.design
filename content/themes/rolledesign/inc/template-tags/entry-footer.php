@@ -14,7 +14,7 @@ function entry_footer() { ?>
   </p>
 
   <p class="auth">
-    <a href="https://keybase.io/ronilaukkarinen"><img src="https://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( 'roni@dude.fi' ) ) ); ?>.jpg?s=78" alt="Facial image of me, Roni Laukkarinen aka rolle from Twitter" class="gravatar-small" width="26" height="26" /> @rolle</a>
+    <a href="https://keybase.io/ronilaukkarinen"><img src="https://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( 'rolle@dude.fi' ) ) ); ?>.jpg?s=78" alt="Facial image of me, Rolle Laukkarinen aka rolle from Twitter" class="gravatar-small" width="26" height="26" /> @rolle</a>
   </p>
 </div>
 <?php }

@@ -4,9 +4,9 @@
  *
  * Description: hooks
  *
- * @Author:		Roni Laukkarinen
+ * @Author:		Rolle Laukkarinen
  * @Date:   		2022-12-15 10:54:27
- * @Last Modified by:   Roni Laukkarinen
+ * @Last Modified by:   Rolle Laukkarinen
  * @Last Modified time: 2024-01-09 19:30:35
  *
  * @package rolle.design

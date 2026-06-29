@@ -6,7 +6,7 @@
  * own files under /inc and just require here.
  *
  * @Date: 2019-10-15 12:30:02
- * @Last Modified by: Roni Laukkarinen
+ * @Last Modified by: Rolle Laukkarinen
  * @Last Modified time: 2021-04-01 20:30:46
  *
  * @package rolle

@@ -8,7 +8,7 @@
  * different template.
  *
  * @Date:   2019-10-15 12:30:02
- * @Last Modified by: Roni Laukkarinen
+ * @Last Modified by: Rolle Laukkarinen
  * @Last Modified time: 2021-04-01 23:09:04
  * @package rolle
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/

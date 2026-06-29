@@ -1,8 +1,8 @@
 /* eslint-disable no-param-reassign */
 /**
- * @Author: Roni Laukkarinen
+ * @Author: Rolle Laukkarinen
  * @Date:   2021-09-01 11:55:37
- * @Last Modified by:   Roni Laukkarinen
+ * @Last Modified by:   Rolle Laukkarinen
  * @Last Modified time: 2024-01-09 19:15:11
  */
 /**
