@@ -22,6 +22,18 @@ namespace Air_Light;
 <head>
   <meta charset="<?php bloginfo( 'charset' ); ?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script>
+    /* Set color theme before first paint to avoid a dark-mode flash (FOUC) in either direction */
+    ( function() {
+      try {
+        var stored = localStorage.getItem( 'theme' );
+        var theme = stored || ( ( window.matchMedia && window.matchMedia( '(prefers-color-scheme: dark)' ).matches ) ? 'dark' : 'light' );
+        document.documentElement.setAttribute( 'data-theme', theme );
+      } catch ( e ) {}
+    }() );
+  </script>
+
   <link rel="profile" href="http://gmpg.org/xfn/11">
 
   <?php wp_head(); ?>
