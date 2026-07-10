@@ -131,6 +131,11 @@
   }
 }
 
+// Front page hero heading uses a terminal/monospace font for the command-style "$ sudo su rolle."
+.block-hero.block-hero-front h1 {
+  font-family: $font-terminal;
+}
+
 .block-hero h1 span {
   &:nth-child(1) {
     color: var(--color-synthwavedarkblue);

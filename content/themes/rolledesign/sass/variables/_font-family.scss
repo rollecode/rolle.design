@@ -11,3 +11,20 @@
 @include fontFace('SF Mono', '../../fonts/sfmono-regular', 400);
 @include fontFace('SF Mono', '../../fonts/sfmono-regularitalic', 400, italic);
 @include fontFace('SF Mono', '../../fonts/sfmono-bold', 700);
+
+// JetBrains Mono — modern terminal display font for the front page hero (self-hosted, woff2 only)
+@font-face {
+  font-display: swap;
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../fonts/JetBrainsMono-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../fonts/JetBrainsMono-Bold.woff2') format('woff2');
+}
