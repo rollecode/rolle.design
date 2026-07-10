@@ -12,19 +12,19 @@
 @include fontFace('SF Mono', '../../fonts/sfmono-regularitalic', 400, italic);
 @include fontFace('SF Mono', '../../fonts/sfmono-bold', 700);
 
-// Martian Mono — condensed modern terminal display font for the front page hero (self-hosted, woff2 only)
+// IBM Plex Mono — modern terminal display font for the front page hero (self-hosted, woff2 only)
 @font-face {
   font-display: swap;
-  font-family: 'Martian Mono';
+  font-family: 'IBM Plex Mono';
   font-style: normal;
   font-weight: 400;
-  src: url('../../fonts/MartianMono-Regular.woff2') format('woff2');
+  src: url('../../fonts/IBMPlexMono-Regular.woff2') format('woff2');
 }
 
 @font-face {
   font-display: swap;
-  font-family: 'Martian Mono';
+  font-family: 'IBM Plex Mono';
   font-style: normal;
   font-weight: 700;
-  src: url('../../fonts/MartianMono-Bold.woff2') format('woff2');
+  src: url('../../fonts/IBMPlexMono-Bold.woff2') format('woff2');
 }

@@ -134,6 +134,18 @@
 // Front page hero heading uses a terminal/monospace font for the command-style "$ sudo su rolle."
 .block-hero.block-hero-front h1 {
   font-family: $font-terminal;
+  font-size: 72px;
+  margin-bottom: 4.2rem;
+  word-spacing: -4.2rem;
+
+  @media (max-width: 950px) {
+    word-spacing: -3rem !important;
+  }
+
+  @media (max-width: 700px) {
+    font-size: 32px;
+    word-spacing: -1.2rem !important;
+  }
 }
 
 .block-hero h1 span {
