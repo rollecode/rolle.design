@@ -18,7 +18,7 @@ get_header(); ?>
 <main class="site-main transition-fade">
   <section class="block block-hero block-hero-front block-has-space" id="hero">
     <div class="content">
-      <h1 id="content"><span>$</span> <span>sudo su</span> <span>rolle.</span></h1>
+      <h1 id="content"><span>$</span> <span>sudo su</span> <span>rolle</span></h1>
       <p>Hello! I'm <span>Rolle</span>, nice to meet you! I'm a programmer, developer, designer, sysadmin from Finland.</p>
 
       <img src="https://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( 'rolle@dude.fi' ) ) ); ?>.jpg?s=300" alt="Facial image of me, Rolle Laukkarinen aka rolle from Twitter" class="gravatar" width="100" height="100" />
